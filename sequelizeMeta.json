@@ -1,0 +1,21 @@
+[
+  "20211210160618-create-company.js",
+  "20211210160658-create-company-files.js",
+  "20211210160712-create-company-contact.js",
+  "20211210160727-create-supplier.js",
+  "20211210161722-create-product.js",
+  "20211210161739-create-supplier-product-assosiate.js",
+  "20211210161758-create-product-images.js",
+  "20211210161810-create-product-type.js",
+  "20211210161843-create-product-packing.js",
+  "20211210161900-create-supplier-supply.js",
+  "20211210161914-create-supplier-supply-invoice.js",
+  "20211210161935-create-supplier-supply-payment.js",
+  "20211210161958-create-customer.js",
+  "20211210162016-create-invoice.js",
+  "20211210162033-create-invoice-details.js",
+  "20211210162043-create-invoice-payment.js",
+  "20211210162057-create-invoice-status.js",
+  "20211210162108-create-invoice-attachments.js",
+  "20211210162117-create-invoice-payment-attachment.js"
+]

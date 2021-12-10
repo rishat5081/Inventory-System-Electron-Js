@@ -1,0 +1,32 @@
+{
+  "development": {
+    "dialect": "sqlite",
+    "storage": "inventory_system.sqlite",
+    "freezeTableName": true,
+    "logging": false,
+    "migrationStorage": "json",
+    "migrationStoragePath": "sequelizeMeta.json",
+    "migrationStorageTableName": "sequelize_meta",
+    "migrationStorageTableSchema": "custom_schema"
+  },
+  "test": {
+    "dialect": "sqlite",
+    "storage": "inventory_system.sqlite",
+    "freezeTableName": true,
+    "logging": false,
+    "migrationStorage": "json",
+    "migrationStoragePath": "sequelizeMeta.json",
+    "migrationStorageTableName": "sequelize_meta",
+    "migrationStorageTableSchema": "custom_schema"
+  },
+  "production": {
+    "dialect": "sqlite",
+    "storage": "inventory_system.sqlite",
+    "freezeTableName": true,
+    "logging": false,
+    "migrationStorage": "json",
+    "migrationStoragePath": "sequelizeMeta.json",
+    "migrationStorageTableName": "sequelize_meta",
+    "migrationStorageTableSchema": "custom_schema"
+  }
+}

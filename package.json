@@ -1,0 +1,21 @@
+{
+  "name": "inventory-system",
+  "version": "1.0.0",
+  "description": "The Inventory System Desktop App which is build in Electron Js, Sqlite3 and React",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "nodemon index.js"
+  },
+  "author": "Saad Sohail",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/register": "^7.16.0",
+    "electron": "^16.0.4"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "sequelize": "*",
+    "sqlite3": "^5.0.2"
+  }
+}
